@@ -1,0 +1,25 @@
+{
+  "name": "@graycore/magento2-magento2-colorado-retail-delivery-fee",
+  "description": "A package to automatically compute the Colorado retail delivery fee for Magento 2",
+  "version": "0.0.0",
+  "directories": {
+    "doc": "docs"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graycoreio/magento2-colorado-retail-delivery-fee.git"
+  },
+  "scripts": {
+    "release": "standard-version"
+  },
+  "author": "Damien Retzinger<damienwebdev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/graycoreio/magento2-colorado-retail-delivery-fee/issues"
+  },
+  "homepage": "https://github.com/graycoreio/magento2-colorado-retail-delivery-fee#readme",
+  "devDependencies": {
+    "standard-version": "^9.1.1"
+  }
+}

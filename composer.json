@@ -1,6 +1,6 @@
 {
     "name": "graycore/magento2-colorado-retail-delivery-fee",
-    "description": "A package to automatically compute the colorado retail delivery fee.",
+    "description": "A package to automatically compute the Colorado retail delivery fee for Magento 2.",
     "type": "magento2-module",
     "license": "MIT",
     "authors": [
