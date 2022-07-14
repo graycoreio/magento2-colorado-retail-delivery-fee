@@ -12,6 +12,7 @@
 </div>
 
 
+
 ## Magento Version Support
 ![Magento v2.3 Supported](https://img.shields.io/badge/Magento-2.3-brightgreen.svg?labelColor=2f2b2f&logo=magento&logoColor=f26724&color=464246&longCache=true&style=flat)
 ![Magento v2.4 Supported](https://img.shields.io/badge/Magento-2.4-brightgreen.svg?labelColor=2f2b2f&logo=magento&logoColor=f26724&color=464246&longCache=true&style=flat)
@@ -19,7 +20,7 @@
 ![The Flag of Colorado](./docs/Flag_of_Colorado.svg)
 
 
-A package to automatically compute the Colorado retail delivery fee for Magento 2.
+A package to automatically compute the [Colorado retail delivery fee](https://tax.colorado.gov/retail-delivery-fee) for Magento 2.
 
 ## Getting Started
 This module is intended to be installed with [composer](https://getcomposer.org/). From the root of your Magento 2 project:
