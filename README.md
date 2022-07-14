@@ -30,7 +30,7 @@ composer require graycore/magento2-colorado-retail-delivery-fee
 3. Enable the package
 
 ```bash
-./bin/magento module:enable Graycore_ColoradoRetailDeliveryFeee
+./bin/magento module:enable Graycore_ColoradoRetailDeliveryFee
 ```
 
 ## Upgrading
